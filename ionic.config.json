@@ -1,0 +1,7 @@
+{
+  "name": "demo-ionic-tabs-back-button",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
